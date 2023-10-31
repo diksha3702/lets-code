@@ -5,9 +5,6 @@ lets-code is the online web platform where user can work on differt codes to gat
 </p>
 <br/>
 
-# Deployed Link
-<p>You can checkout website through this link : <a href="https://lets-code404.herokuapp.com/">https://lets-code404.herokuapp.com/</a>
-</p>
 <br/>
 
 # Features
